@@ -1,0 +1,7 @@
+{
+  "extends": ["eslint:recommended", "angular"],
+  "globals": {
+    "document": true,
+    "Fuse": true
+  }
+}

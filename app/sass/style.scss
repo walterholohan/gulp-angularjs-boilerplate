@@ -1,0 +1,16 @@
+.header {
+    &-title {
+        color: blue;
+        font-weight: 600;
+    }
+    &-subtitle {
+        color: green;
+        font-weight: 400;
+    }
+}
+.text {
+    &-service {
+        color: red;
+        font-size: 20px;
+    }
+}
