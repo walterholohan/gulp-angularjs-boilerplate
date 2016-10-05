@@ -21,7 +21,7 @@ The following Gulp tasks are performed to create a production ready build with s
 
 ### Getting up and running
 
-1. Clone this repo from `https://github.com/jakemmarsh/angularjs-gulp-browserify-boilerplate.git`
+1. Clone this repo from `https://github.com/walterholohan/gulp-angularjs-boilerplate.git`
 2. Run `npm install` from the root directory
 3. Run `bower install` from the root directory
 4. Run `gulp` to start a webserver on `http://localhost:8888/` serving files from the `/build` directory and watch for SASS changes
